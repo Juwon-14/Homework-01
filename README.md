@@ -1,0 +1,1 @@
+This program converts a positive integer input by the user into a binary number. If the user does not enter a positive integer, it requests that a positive integer be entered. And the positive integer input by the user is divided by 2 and the remainder is obtained, and then a binary number is obtained.
